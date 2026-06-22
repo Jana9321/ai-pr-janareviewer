@@ -1,5 +1,5 @@
 """
-This module contains tests for the example functionality.
+This module contains tests for the example functionality .
 It checks basic assertions to ensure everything is working.
 """
 
